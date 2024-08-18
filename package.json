@@ -1,6 +1,6 @@
 {
   "name": "@zipeva/zipcore-p2p",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "Dash Core Group, Inc. <dev@dash.org>",
   "main": "index.js",
