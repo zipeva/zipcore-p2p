@@ -1,6 +1,6 @@
 {
   "name": "@zipeva/zipcore-p2p",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "Dash Core Group, Inc. <dev@dash.org>",
   "main": "index.js",
@@ -52,7 +52,7 @@
     "url": "https://github.com/zipeva/zipcore-p2p.git"
   },
   "dependencies": {
-    "@zipeva/zipcore-lib": "^0.21.3",
+    "@zipeva/zipcore-lib": "^0.21.4",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.8"
