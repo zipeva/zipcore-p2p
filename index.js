@@ -1,4 +1,4 @@
-var dashcore = require('@dashevo/dashcore-lib');
-dashcore.P2P = require('./lib');
+var zipcore = require('@zipeva/zipcore-lib');
+zipcore.P2P = require('./lib');
 
-module.exports = dashcore.P2P;
+module.exports = zipcore.P2P;
